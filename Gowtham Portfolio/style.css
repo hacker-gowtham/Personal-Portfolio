@@ -5,9 +5,7 @@
     margin: 0px;
 
 }
-body{
-    
-}
+
 .header {
     min-height: 100vh;
     width: 100%;
@@ -120,7 +118,7 @@ nav {
 }
 
 
-@media(max-width:700px) {
+/* @media(max-width:700px) {
     .text-box h1 {
         font-size: 35px;
     }
@@ -166,7 +164,7 @@ nav {
     }
 
 }
-
+ */
 
 .project{
     font-family: "poppins";
@@ -302,4 +300,8 @@ nav {
   height: 25px;
   padding-top: 10px;
   
+}
+.mail{
+    text-decoration: none;
+    color: black;
 }
